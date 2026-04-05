@@ -8,11 +8,14 @@ Senior Software Developer (6+ years) building **cloud-native, full-stack systems
 
 ## 🔧 Tech I use daily
 
-- **Backend:** Node.js, Express, FastAPI  
-- **Frontend:** React, Angular  
-- **Cloud:** GCP (Cloud Run, Cloud Functions, BigQuery, Firestore, Pub/Sub)  
-- **Data:** BigQuery, PostgreSQL, Firestore  
-- **DevOps:** GitLab CI/CD, Docker  
+- **Languages:** JavaScript/TypeScript, Python, HCL(Terraform)
+- **Backend:** Node.js (Express.js), FastAPI, REST APIs, Microservices
+- **Frontend:** Angular, React
+- **Cloud & Infra:** GCP(Cloud Run Services, GKE, Pub/Sub, Cloud Scheduler, Cloud Build)
+- **CI/CD & Automation:** GitLab CI/CD, Docker, Cloud Build, Github Actions, Pipeline Templating, Multi-environment Workflows
+- **Data:** BigQuery, PostgreSQL, Firestore
+- **IaC:** Terraform (actively building - strong IaC principles and GCP automation background)
+- **AI & Data Security:** Vertex AI, Gemini API, Protegrity (PII/PHI tokenisation)  
 
 ## 🏗 Highlighted Projects
 
